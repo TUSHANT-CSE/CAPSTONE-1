@@ -1,6 +1,3 @@
-This image showcases the main promotional and product display section of an e-commerce website dedicated to seasonal sales. Based on the visuals, the project is a Premium Winter Gear E-Commerce Sale Page.
-
-Here is a comprehensive README structure for this Capstone Project, focusing on the sale-driven nature of the site.
 
 ❄️ Premium Winter Gear E-Commerce (Sale Capstone)
 🚀 Project Overview
